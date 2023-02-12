@@ -28,7 +28,6 @@ Array ( [0] => -9 [1] => -2 [2] => 0 [3] => 4 [4] => 8 [5] => 11 [6] => 35 )
 
  $array1 = new SortArray();
 
- $array2 = new SortArray();
 
  // print_r is chosen for displaying the aray's list because it's suitable the suitable fonction of arrays .
 
