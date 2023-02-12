@@ -29,7 +29,7 @@ Array ( [0] => -9 [1] => -2 [2] => 0 [3] => 4 [4] => 8 [5] => 11 [6] => 35 )
  $array1 = new SortArray();
 
 
- // print_r is chosen for displaying the aray's list because it's suitable the suitable fonction of arrays .
+ // print_r is chosen for displaying the aray's list because it's  the suitable fonction of arrays .
 
  print_r($array1 -> ArrayToSort(11, -2, 4, 35, 0, 8, -9)) ;
 
