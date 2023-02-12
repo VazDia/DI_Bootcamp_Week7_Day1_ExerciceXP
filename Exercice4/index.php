@@ -11,7 +11,7 @@ Difference : 31 years, 10 months, 1 days
 
  // Creating the class 
 class DifferenceBetweenDates {
-    public $startDate; // propriety for the sarting date
+    public $startDate; // propriety for the staring date
     public $endDate; // propriety for the ending date
 
     // Creating a method in which the difference between the two dates will be calculated
